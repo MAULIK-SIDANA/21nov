@@ -22,3 +22,4 @@
 -Cricket
 -Football
 -Movies
+-Badminton
